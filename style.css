@@ -40,6 +40,18 @@ body {
     padding: 20px 0;
 }
 
+.fullscreen__two {
+    background-color: #7C9900;
+}
+
+.fullscreen__bg-1 {
+    background: url('images/fullscreen_bg-1.jpg')center/cover no-repeat fixed;
+}
+
+.fullscreen__bg-2 {
+    background: url('images/fullscreen_bg-2.svg')center/cover no-repeat fixed;
+}
+
 .fullscreen__body {
     flex: 1 1 auto;
     max-width: 1000px;
